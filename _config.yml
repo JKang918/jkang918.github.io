@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: "Finance × Operations Research" # the main title
 
-tagline: "Let's optimize everything" # it will display as the subtitle
+tagline: "Let's optimize everything in finance" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
