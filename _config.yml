@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Finance × Operations Research" # the main title
+title: "Mathematical Finance & Optimization" # the main title
 
-tagline: "Let's optimize everything in finance" # it will display as the subtitle
+tagline: "Econometrics, Optimization, Accounting, and Finance" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
